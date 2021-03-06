@@ -1,2 +1,2 @@
-# elo-tester
-Elo Learning Demo
+# ELO Learning
+This is a demonstration of what I call "Rating Learning". In this specific implementation, we learn the capitals of countries by getting matched with questions at our level with the help of ELO ratings.
